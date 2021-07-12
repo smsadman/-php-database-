@@ -63,7 +63,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Login Form</title>
-	<center> <h1> ONLINE BUS MAMAGMENT SYSTEM </h1></center>
+
 </head>
 <body>
 
