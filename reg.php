@@ -1,5 +1,5 @@
 <?php
-
+$fname="";
 $lname="";
 $gender="";
 $date="";
